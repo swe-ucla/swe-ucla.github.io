@@ -74,6 +74,7 @@ body {
   display: grid;
   padding: 2rem;
   grid-template-columns: 200px 500px;
+  /* grid-template-rows: 20px 50px; */
   top:0;
   gap: 8em;
   align-items: center;
