@@ -4,30 +4,35 @@
   text-align: center; 
   display:grid ;
 }
-a {
-  color: rgb(186, 124, 234);
 
-}
-h1 { 
+/* h1 { 
   font-size: calc(25px + 2vmin);
-  color: rgb(186, 124, 234);
-}
+  /* color: #5670ff ; 
+} */
 
 h2 {
-
   font-size: calc(15px + 2vmin);
-  text-align: left;
-  color: rgb(186, 124, 234);
+  text-align: center;
+  /* color: #5670ff ; */
+  color: #ffffff;
+  font-weight: lighter;
 
 }
+
+/* Button {
+  background-color: rgb(73, 49, 49);
+}  */
+
+
 
 h3 {
   text-align: center;
   font-size: calc(15px + 2vmin);
-  color: rgb(186, 124, 234);
+  color: #5670ff ;
+  margin-bottom: 80px;
 }
 .speaker__item__pic-wrap{
-  position: relative;
+  position: absolute;
   width: 100%;
   padding-top: 50%;
   
@@ -70,27 +75,29 @@ h3 {
   color: rgb(186, 124, 234);
 } */
 
-body {
+/* body {
   display: grid;
   padding: 2rem;
   grid-template-columns: 200px 500px;
   /* grid-template-rows: 20px 50px; */
-  top:0;
+  /* top:0;
   gap: 8em;
   align-items: center;
   max-width: 800px;
   margin: 0 auto; 
   font: 500 100%/1.5 system-ui;
-}
+} */ */
 img {
   max-width: 100%;
   height: auto;
   border-radius: 100%;
 }
 
-img:hover {
+
+
+/* img:hover {
   transform: scale(1.1);
-}
+} */
 
 .App-link {
   color: #61dafb;
