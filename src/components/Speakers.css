@@ -45,7 +45,7 @@ a {
   position: absolute;
   background-color: #f0d4d9; 
   transform: translate(0px, -230px) rotate(16deg);
-  width: 20000000000px;
+  width: 1900px;
   height: 590px;
 }
 
@@ -54,7 +54,7 @@ a {
   position: absolute;
   background-color: #5670ff;
   transform: translate(-330px, -280px) rotate(340deg);
-  width: 200000px;
+  width: 1900px;
   height: 590px;
 }
 
