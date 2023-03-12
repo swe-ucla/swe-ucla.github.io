@@ -1,11 +1,62 @@
 .App {
-  text-align: center;
+  width: 100%;
+  font-family: 'Fira Sans', sans-serif;
+  text-align: center; 
+  display:grid ;
 }
 
-.App-logo {
+/* h1 { 
+  font-size: calc(25px + 2vmin);
+  /* color: #5670ff ; 
+} */
+
+h2 {
+  font-size: calc(15px + 2vmin);
+  text-align: center;
+  /* color: #5670ff ; */
+  color: #ffffff;
+  font-weight: lighter;
+
+}
+
+/* Button {
+  background-color: rgb(73, 49, 49);
+}  */
+
+
+
+h3 {
+  text-align: center;
+  font-size: calc(15px + 2vmin);
+  color: #5670ff ;
+  margin-bottom: 80px;
+}
+.speaker__item__pic-wrap{
+  position: absolute;
+  width: 100%;
+  padding-top: 50%;
+  
+}
+
+/* .speaker__item__pic-wrap::after {
+  content: attr(data-category);
+  position: relative;
+  bottom: 0;
+  margin-left: 10px;
+  padding: 6px 8px;
+  max-width: calc((100%) - 60px);
+  font-size: 30px;
+  font-weight: 700;
+  color: rgb(198, 31, 31);
+  background-color: #e8ee33;
+  box-sizing: border-box;
+} */
+  
+/* .App-logo {
   height: 40vmin;
   pointer-events: none;
-}
+  
+} */
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
@@ -13,16 +64,40 @@
   }
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+/* .App-header {
+  background-color: #ffffff;
+  min-height: 10vh;
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  justify-content: start;
+  font-size: calc(40px + 2vmin);
+  color: rgb(186, 124, 234);
+} */
+
+/* body {
+  display: grid;
+  padding: 2rem;
+  grid-template-columns: 200px 500px;
+  /* grid-template-rows: 20px 50px; */
+  /* top:0;
+  gap: 8em;
+  align-items: center;
+  max-width: 800px;
+  margin: 0 auto; 
+  font: 500 100%/1.5 system-ui;
+} */ */
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 100%;
 }
+
+
+
+/* img:hover {
+  transform: scale(1.1);
+} */
 
 .App-link {
   color: #61dafb;
