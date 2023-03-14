@@ -2,7 +2,7 @@
   "name": "e4g-symposium-website",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://swe-ucla.github.io/src",
+  "homepage": "https://swe-ucla.github.io/swe-ucla.github.io",
   "dependencies": {
     "@material-ui/core": "^4.12.4",
     "@testing-library/jest-dom": "^5.16.5",
