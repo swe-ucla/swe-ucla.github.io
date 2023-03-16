@@ -19,22 +19,21 @@ code {
     display:grid ;
   }
 
-  h2 {
+h2 {
     font-size: calc(15px + 2vmin);
     text-align: center;
     /* color: #5670ff ; */
     color: #ffffff;
     font-weight: lighter;
-  
-  }
- 
-  
-  h3 {
+}
+
+
+h3 {
     text-align: center;
     font-size: calc(15px + 2vmin);
     color: #5670ff ;
     margin-bottom: 80px;
-  }
+}
   .speaker__item__pic-wrap{
     position: absolute;
     width: 100%;
