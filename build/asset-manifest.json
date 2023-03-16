@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/swe-ucla.github.io/static/css/main.8af39ca3.css",
+    "main.js": "/swe-ucla.github.io/static/js/main.4d9350bf.js",
+    "static/js/787.655f2448.chunk.js": "/swe-ucla.github.io/static/js/787.655f2448.chunk.js",
+    "index.html": "/swe-ucla.github.io/index.html",
+    "main.8af39ca3.css.map": "/swe-ucla.github.io/static/css/main.8af39ca3.css.map",
+    "main.4d9350bf.js.map": "/swe-ucla.github.io/static/js/main.4d9350bf.js.map",
+    "787.655f2448.chunk.js.map": "/swe-ucla.github.io/static/js/787.655f2448.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8af39ca3.css",
+    "static/js/main.4d9350bf.js"
+  ]
+}
