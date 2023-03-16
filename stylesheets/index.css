@@ -117,6 +117,8 @@
   .circle_border {
     display: inline;
     position: relative;
+    width: 200px;
+    height: 200px;
     border-radius: 100%;
     background: linear-gradient(to right, #5670ff,  #f0d4d9);
   
