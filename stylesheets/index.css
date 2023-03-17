@@ -114,9 +114,13 @@
     font-size:calc(1px + 2vmin) ;
   
   }
-  .circle_border {
+  
+  .speaker-header {
     display: inline;
     position: relative;
+  }
+
+  .circle_border {
     width: 200px;
     height: 200px;
     border-radius: 100%;
