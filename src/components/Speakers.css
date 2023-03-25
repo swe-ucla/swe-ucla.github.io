@@ -67,17 +67,20 @@ a {
 
 }
 
+
 .info {
   display:flex;
-  max-width: 40%;
+  flex-direction: column;
+  text-align: justify;
+  max-width: 50%;
   font-size:calc(1px + 2vmin) ;
 
 }
 .circle_border {
   display: inline;
   position: relative;
-  width: 200px;
-  height: 200px;
+  width: 300px;
+  height: 300px;
   border-radius: 100%;
   background: linear-gradient(to right, #5670ff,  #f0d4d9);
 
