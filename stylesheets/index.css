@@ -139,22 +139,24 @@
   }
 
   .circle_border {
-    display: flex;
+    display: flex; 
     align-items: center;
-    /* display: inline; */
-    /* position: relative; */
+    /* display: inline; 
+    position: relative;  */
     width: 300px;
     height: 300px;
     border-radius: 100%;
     background: linear-gradient(to right, #5670ff,  #f0d4d9);
+   
   
   }
   
   img {
-    max-width: 92%;
+    max-width: 100%;
     border-radius: 100%;
     position: relative;
-    top: 4%;
+    margin-left:30px;
+   
   }
 
 .rightinfo {
