@@ -23,12 +23,11 @@ h2 {
   background-color: rgb(73, 49, 49);
 }  */
 
-
-
 h3 {
   text-align: center;
-  font-size: calc(15px + 2vmin);
+  font-size: calc(25px + 2vmin);
   color: #5670ff ;
+  margin-top: 200px;
   margin-bottom: 80px;
 }
 .speaker__item__pic-wrap{
