@@ -6,10 +6,10 @@
   }
 
   h2 {
-    font-size: calc(15px + 2vmin);
+    font-size: calc(6px + 2vmin);
     text-align: center;
     /* color: #5670ff ; */
-    color: #ffffff;
+    color: #000000;
     font-weight: lighter;
   
   }
@@ -34,7 +34,7 @@
     text-align: center;
     font-size: calc(20px + 2vmin);
     color: #5670ff ;
-    margin-top:200px;
+    margin-top:60px;
     margin-bottom: 80px;
     font-weight:bolder;
   }
@@ -45,7 +45,6 @@
     padding-top: 50%;
     
   }
-
   
   @media (prefers-reduced-motion: no-preference) {
     .App-logo {
@@ -72,6 +71,11 @@
     }
   }
   
+  .basic_facts {
+    margin-left: 70%;
+    margin-top: -150px;
+  
+  }
 
   .speakers2 {
     padding: 2rem;
@@ -94,6 +98,7 @@
     text-decoration: none;
   }
   .regbutton {
+    margin-top:50px;
     font-family: 'Fira Sans', sans-serif !important;
     background-color: #5670ff !important;
     color: #f0d4d9 !important;
@@ -107,7 +112,7 @@
     z-index:-300;
     position: absolute;
     background-color: #f0d4d9; 
-    transform: translate(0px, -230px) rotate(16deg);
+    transform: translate(0px, -150px) rotate(16deg);
     width: 1900px;
     height: 590px;
   }
@@ -211,8 +216,9 @@
   }
   
   h1 {
-    font-size: calc(25px + 2vmin);
+    font-size: calc(45px + 2vmin);
     text-align: center;
+    margin-right:55%;
     /* color: #5670ff; */
     color: #ffffff;
   }
