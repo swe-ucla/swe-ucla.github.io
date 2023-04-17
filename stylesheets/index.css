@@ -70,16 +70,10 @@
       transform: rotate(360deg);
     }
   }
-  
-  .basic_facts {
-    margin-left: 70%;
-    margin-top: -150px;
-  
-  }
 
   .speakers2 {
     padding: 2rem;
-   margin-left: 3%;
+    margin-left: 3%;
     margin-right: 3%; 
 
 
@@ -88,10 +82,9 @@
   
 
   .infoheader {
-    display: flex;
-    flex-direction: column;
+    text-align: center;
     align-items: center;
-    margin-bottom: 100px;
+    margin-bottom: 50px;
   
   }
   .regbutton-a {
@@ -184,7 +177,7 @@
     align-items:center;
     text-align: justify;
     justify-content: space-around;
-    margin-inline: 100px;
+    margin-inline: 50px;
 
 
   
@@ -218,7 +211,6 @@
   h1 {
     font-size: calc(45px + 2vmin);
     text-align: center;
-    margin-right:55%;
     /* color: #5670ff; */
     color: #ffffff;
   }
