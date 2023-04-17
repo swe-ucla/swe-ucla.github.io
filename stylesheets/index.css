@@ -6,10 +6,10 @@
   }
 
   h2 {
-    font-size: calc(15px + 2vmin);
+    font-size: calc(6px + 2vmin);
     text-align: center;
     /* color: #5670ff ; */
-    color: #ffffff;
+    color: #000000;
     font-weight: lighter;
   
   }
@@ -34,7 +34,7 @@
     text-align: center;
     font-size: calc(20px + 2vmin);
     color: #5670ff ;
-    margin-top:200px;
+    margin-top:60px;
     margin-bottom: 80px;
     font-weight:bolder;
   }
@@ -45,7 +45,6 @@
     padding-top: 50%;
     
   }
-
   
   @media (prefers-reduced-motion: no-preference) {
     .App-logo {
@@ -71,11 +70,10 @@
       transform: rotate(360deg);
     }
   }
-  
 
   .speakers2 {
     padding: 2rem;
-   margin-left: 3%;
+    margin-left: 3%;
     margin-right: 3%; 
 
 
@@ -84,16 +82,16 @@
   
 
   .infoheader {
-    display: flex;
-    flex-direction: column;
+    text-align: center;
     align-items: center;
-    margin-bottom: 100px;
+    margin-bottom: 50px;
   
   }
   .regbutton-a {
     text-decoration: none;
   }
   .regbutton {
+    margin-top:50px;
     font-family: 'Fira Sans', sans-serif !important;
     background-color: #5670ff !important;
     color: #f0d4d9 !important;
@@ -107,7 +105,7 @@
     z-index:-300;
     position: absolute;
     background-color: #f0d4d9; 
-    transform: translate(0px, -230px) rotate(16deg);
+    transform: translate(0px, -150px) rotate(16deg);
     width: 1900px;
     height: 590px;
   }
@@ -179,7 +177,7 @@
     align-items:center;
     text-align: justify;
     justify-content: space-around;
-    margin-inline: 100px;
+    margin-inline: 50px;
 
 
   
@@ -211,7 +209,7 @@
   }
   
   h1 {
-    font-size: calc(25px + 2vmin);
+    font-size: calc(45px + 2vmin);
     text-align: center;
     /* color: #5670ff; */
     color: #ffffff;
